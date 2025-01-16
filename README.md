@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Homanath Adhikari Khatri</h1> 
 <h3 align="center">Aspiring Software Developer | Passionate Learner of Technology</h3>
 
-<img align="right" alt="coding" width="300" src="https://upload.wikimedia.org/Cozy_Coding_Personality.png" />
-
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=homanath&label=Profile%20Views&color=0e75b6&style=flat" alt="homanath" /> 
