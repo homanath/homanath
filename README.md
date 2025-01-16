@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Homanath Adhikari Khatri</h1> 
 <h3 align="center">Aspiring Software Developer | Passionate Learner of Technology</h3>
 
-<img align="right" alt="coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Person_coding_in_a_cozy_room.png" />
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE0YzNkMjE2OWU0NGVkNzgzYjE3OTdlYzZmOWQxYjY2NDBkNmJhNCZlcD12cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=homanath&label=Profile%20Views&color=0e75b6&style=flat" alt="homanath" /> 
