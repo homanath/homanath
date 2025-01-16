@@ -14,4 +14,3 @@ GitHub Stats:
 
 <p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homanath&show_icons=true&locale=en" alt="homanath" /> </p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homanath&" alt="homanath" /> </p>
