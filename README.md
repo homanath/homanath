@@ -2,9 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Passionate Learner of Technology</h3>
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=homanath&label=Profile%20Views&color=0e75b6&style=flat" alt="homanath" /> 
-</p>
+
 
 ---
 
