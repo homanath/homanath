@@ -16,10 +16,17 @@
 
 ### Connect with Me:
 <p align="left"> 
-  <a href="https://github.com/homanath" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub"/> </a> 
-  <a href="https://www.linkedin.com/in/homanath" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/linkedin.png" alt="LinkedIn"/> </a> 
-  <a href="https://twitter.com/homanath" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/twitter.png" alt="Twitter"/> </a> 
+  <a href="https://github.com/homanath" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30"/> 
+  </a> 
+  <a href="https://www.linkedin.com/in/homanath" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> 
+  </a> 
+  <a href="https://twitter.com/homanath" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30"/> 
+  </a> 
 </p>
+
 
 ---
 
