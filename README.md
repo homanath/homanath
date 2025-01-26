@@ -71,6 +71,3 @@
 - 🚀 Aspiring to collaborate on open-source initiatives to contribute and grow.
 
 ---
-
-### How You Can Help:
-- 🤝 I'm open to learning from seasoned developers or collaborating with peers. Feel free to suggest projects or share resources!
