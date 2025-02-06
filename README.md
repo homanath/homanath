@@ -7,7 +7,7 @@
 ---
 
 ### About Me:
-- 🌱 I’m currently learning *Python* to enhance my programming skills.
+- 🌱 I’m currently learning **Python** to enhance my programming skills.
 - 🔭 Exploring **data structures, algorithms, and backend development**.
 - 📖 Eager to start contributing to **open-source projects** soon.
 - 📫 You can reach me at: **suzanadhikari101@gmail.com**.
