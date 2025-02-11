@@ -18,7 +18,7 @@
   <a href="https://github.com/homanath" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30"/> 
   </a> 
-  <a href="https://www.linkedin.com/in/homanath" target="_blank"> 
+  <a href="https://www.linkedin.com/in/homanath-adhikari-51863a2b1/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> 
   </a> 
   <a href="https://twitter.com/homanath" target="_blank"> 
