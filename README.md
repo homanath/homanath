@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Homanath Adhikari </h1> 
+<h1 align="center">Hi 👋, I'm Homanath Adhikari Khatri</h1> 
 <h3 align="center">Aspiring Software Developer | Passionate Learner of Technology</h3>
 
 
