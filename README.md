@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Homanath Adhikari Khatri</h1> 
 <h3 align="center">Aspiring Software Developer | Passionate Learner of Technology</h3>
 
-
-
 ---
 
 ### About Me:
@@ -21,11 +19,10 @@
   <a href="https://www.linkedin.com/in/homanath-adhikari-51863a2b1/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> 
   </a> 
-  <a href="https://twitter.com/homanath" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30"/> 
+  <a href="https://www.facebook.com/homanath" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="30" height="30"/> 
   </a> 
 </p>
-
 
 ---
 
