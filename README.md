@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/homanath-adhikari-51863a2b1/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> 
   </a> 
-  <a href="https://www.facebook.com/homanath" target="_blank"> 
+  <a href="https://www.facebook.com/profile.php?id=100070637765149" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="30" height="30"/> 
   </a> 
 </p>
