@@ -12,7 +12,81 @@
 ---
 
 ### Connect with Me:
+<p align="left"> <h1 align="center">Hi 👋, I'm Homanath Adhikari Khatri</h1> 
+<h3 align="center">Aspiring Software Developer | Passionate Learner of Technology</h3>
+
+---
+
+### About Me:
+- 🌱 I’m currently learning **Python** to enhance my programming skills.
+- 🔭 Exploring **data structures, algorithms, and backend development**.
+- 📖 Eager to start contributing to **open-source projects** soon.
+- 📫 You can reach me at: **suzanadhikari101@gmail.com**.
+
+---
+
+### Connect with Me:
 <p align="left"> 
+  <a href="https://github.com/homanath" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30"/> 
+  </a> 
+  <a href="https://www.linkedin.com/in/homanath-adhikari-51863a2b1/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> 
+  </a> 
+  <a href="https://www.facebook.com/profile.php?id=100070637765149" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="30" height="30"/> 
+  </a> 
+</p>
+
+---
+
+### Languages and Tools:
+<p align="left">
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+### GitHub Stats:
+<p> 
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=homanath&theme=tokyonight" alt="Longest Streak & Current Streak" />
+</p>
+
+<p> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=homanath&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Total Commits" /> 
+</p>
+
+---
+
+### Next Steps:
+- 💻 Working on small Python projects like **calculator apps**, **data visualization scripts**, and **web scraping tools**.
+- 🔍 Exploring frameworks like **Flask** or **Django** to dive into backend development.
+- 🚀 Aspiring to collaborate on open-source initiatives to contribute and grow.
+
+---
+<h3>Thank you for visiting my profile! 🚀</h3>
+Feel free to connect or reach out—let's create something amazing together! 🙌
+
   <a href="https://github.com/homanath" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="30" height="30"/> 
   </a> 
