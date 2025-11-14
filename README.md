@@ -18,16 +18,6 @@
 
 </div>
 
----
-
-## ⚡ About Me
-
-- 🎓 BCA Student from *Itahari, Nepal*  
-- 💻 Passionate about **Web Development & Software Engineering**  
-- 🌱 Currently learning: **React, Node.js, Python & Tailwind CSS**  
-- 🚀 Always exploring new technologies and improving skills
-
----
 
 ## 🧠 Tech Stack & Tools
 
@@ -71,17 +61,6 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homanath&layout=compact&theme=tokyonight)
-<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=homanath&show_icons=true&theme=tokyonight)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
