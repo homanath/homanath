@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/0nHnFZg/dev-banner-2025.png" alt="Homanath Banner" width="100%"/>
+  <img src="https://thumbs.dreamstime.com/b/cricket-ball-helmet-grass-under-flashlights-outdoor-stadium-upcoming-match-banner-concept-sport-tournament-321650371.jpg" alt="Homanath Banner" width="100%"/>
 </div>
 
 <h1 align="center">
