@@ -46,10 +46,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=homanath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homanath&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
